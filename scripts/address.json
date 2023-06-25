@@ -1,0 +1,11 @@
+{
+    "localhost": {
+        "greeter":"0x5FbDB2315678afecb367f032d93F642f64180aa3"
+    },
+    "mumbai": {
+        "greeter":"0x077f89AE47AF3B86b9924266b510eA48FEBB1f05"
+    },
+    "mainnet": {
+        "greeter":""
+    }
+}
