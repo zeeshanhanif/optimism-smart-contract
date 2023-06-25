@@ -1,1 +1,1 @@
-# Space Wobbles NFT Project
+# Sample Optimism Smart Contract Project
